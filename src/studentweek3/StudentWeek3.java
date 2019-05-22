@@ -18,6 +18,7 @@ public class StudentWeek3 {
         Student s1=new Student();
         s1.setfirstName("Jhon");
         s1.setID(4);
+        System.out.println("mihir shah");
     }
     
 }
